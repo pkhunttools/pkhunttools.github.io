@@ -1,0 +1,35 @@
+{
+  "sourceUrls": [
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-01",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-02",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-03",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-04",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-05",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-06",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-07",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-08",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-09",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-10",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-11",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-12",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-13",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-14",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-15",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-16",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-17",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-18",
+    "https://pkhunt.online/en/wiki/catalogs/movesets/parte-19",
+    "https://pkhunt.online/en/wiki/catalogs/moves"
+  ],
+  "sourceUpdated": "2026-09-03",
+  "generatedAt": "2026-09-12",
+  "sourceSpecies": 745,
+  "matchedSpecies": 745,
+  "movedexMoves": 360,
+  "unmatchedSpecies": [],
+  "validation": {
+    "pages": 19,
+    "knownMoveReferences": 360,
+    "missingMovedexReferences": 0
+  }
+}
